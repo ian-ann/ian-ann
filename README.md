@@ -14,6 +14,6 @@
 - [Test Plan](https://docs.google.com/spreadsheets/d/1GbDjZFg1imzsCNLQW7t3fS5-aZtFuMGm/edit?usp=share_link&ouid=111527995975860385233&rtpof=true&sd=true)
 
 # Sample Automation Runs
-- [Cypress Dashboard](https://drive.google.com/file/d/1Gd5wxp3cUMg_Uyk_SqGyreO6zrUSCp31/view?usp=share_link)
-- [Cypress Run](https://drive.google.com/file/d/1Gbm74ZIlXMLO7eZokhhk8AHuJMQTMIfC/view?usp=share_link)
-- [Postman Run](https://drive.google.com/file/d/1Ge5gesRY8Ztdu3AGI4DjzFQFslvRM9_0/view?usp=share_link)
+- [Cypress Dashboard]
+- [Cypress Run]
+- [Postman Run]
