@@ -3,9 +3,9 @@
 - 👀 I’m started to learn automation tools in the past 3 years focusing on tools like Cypress, Selenium and Postman.  
 - 🌱 I’m interested in plants and animals
 - 📫 How to reach me 
-    - [Skype](https://join.skype.com/invite/xfE5fa63uct3)
     - [LinkedIn](https://www.linkedin.com/in/marian-g-estrada/)
     - [Email](mailto:ian_an@yahoo.com)
+    - Hire Me : [Upwork](https://www.upwork.com/freelancers/~015d3115f81936e195?viewMode=1)
 
 # Test Documents
 
