@@ -1,6 +1,5 @@
 # About Me
-- 👋 Hi, I’m Marian. I have 15 years of experience in Quality Assurance under E-Commerce and IT Outsourcing Industries. 
-- 👀 I’m started to learn automation tools in the past 3 years focusing on tools like Cypress, Selenium and Postman.  
+- 👋 Hi there! I'm Marian Estrada, a Senior Quality Assurance Engineer with a focus on automation testing. With my experience in software QA testing and debugging code, I have honed my skills in developing and executing test plans, analyzing and documenting test results, and identifying defects. I have worked extensively with Cypress, Testrail, and Github Actions, and integrated them to improve test coverage and effectiveness of the test automation process. Additionally, I have experience managing teams of QA testers and support personnel, as well as creating and implementing efficient test automation frameworks. 
 - 🌱 I’m interested in plants and animals
 - 📫 How to reach me 
     - [Email](mailto:ian_an@yahoo.com)
