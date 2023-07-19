@@ -3,7 +3,7 @@
 - 🌱 I’m interested in plants and animals
 - 📫 How to reach me 
     - [Email](mailto:ian_an@yahoo.com)
-    - Hire Me : [Upwork](https://www.upwork.com/freelancers/~015d3115f81936e195?viewMode=1)
+    - [Linkedin](https://www.linkedin.com/in/marian-g-estrada/)
 
 # Test Documents
 
@@ -13,6 +13,15 @@
 - [Test Plan](https://docs.google.com/spreadsheets/d/1GbDjZFg1imzsCNLQW7t3fS5-aZtFuMGm/edit?usp=share_link&ouid=111527995975860385233&rtpof=true&sd=true)
 
 # Sample Automation Runs
-- [Cypress Dashboard]
+- [Cypress Dashboard Integration]
+- [CircleCI Integration]
 - [Cypress Run]
 - [Postman Run]
+- [Playwright Run]
+
+# Sample Codes
+- [Postman]
+- [Cypress]
+- [Playwright]
+- [Selenium C#]
+- [RestSharp]
