@@ -13,15 +13,20 @@
 - [Test Plan](https://docs.google.com/spreadsheets/d/1GbDjZFg1imzsCNLQW7t3fS5-aZtFuMGm/edit?usp=share_link&ouid=111527995975860385233&rtpof=true&sd=true)
 
 # Sample Automation Runs
-- [Cypress Dashboard Integration]
-- [CircleCI Integration]
-- [Cypress Run]
-- [Postman Run]
-- [Playwright Run]
+- [Cypress Dashboard Integration](assets\Cypress Code JS.png)
+- [CircleCI Integration](assets\Cypress integration to Dashboard.mov)
+- [Cypress Run](assets\Cypress sample run.mov)
+- [Postman Run](assets\Postman API Testing Sample Run.mov)
+- [Playwright Run]()
 
 # Sample Codes
-- [Postman]
-- [Cypress]
-- [Playwright]
-- [Selenium C#]
-- [RestSharp]
+- [Postman]()
+- [Cypress]()
+- [Playwright]()
+- [Selenium C#]()
+- [RestSharp]()
+
+# Web Development Code Repository
+- [CSS](https://github.com/ian-ann/CPRG213-Assignment3-JS)
+- [Javascript](https://github.com/ian-ann/CPRG213-Lab6-JS)
+- [Python](https://ian-ann.github.io/Group5-JoJoSalon/)
