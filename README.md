@@ -19,7 +19,7 @@
 - [Postman Run](assets\Postman API Testing Sample Run.mov)
 - [Playwright Run]()
 
-# Sample Codes
+# Test Automation Code Repository
 - [Postman]()
 - [Cypress]()
 - [Playwright]()
@@ -30,3 +30,7 @@
 - [CSS](https://github.com/ian-ann/CPRG213-Assignment3-JS)
 - [Javascript](https://github.com/ian-ann/CPRG213-Lab6-JS)
 - [Python](https://ian-ann.github.io/Group5-JoJoSalon/)
+- [C# Maui](https://github.com/Sait-team-2/FinalProject_GymManagement)
+- [Java OOP]
+- [Mobile React]
+- [Web Dev React]
