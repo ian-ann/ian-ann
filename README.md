@@ -20,8 +20,8 @@
 - [Playwright Run]()
 
 # Test Automation Code Repository
-- [Postman]()
-- [Cypress]()
+- [Postman](https://github.com/ian-ann/Portfolio-PostmanAPI) 
+- [Cypress](https://github.com/ian-ann/Percy-integration-cypress)
 - [Playwright]()
 - [Selenium C#]()
 - [RestSharp]()
@@ -31,6 +31,6 @@
 - [Javascript](https://github.com/ian-ann/CPRG213-Lab6-JS)
 - [Python](https://ian-ann.github.io/Group5-JoJoSalon/)
 - [C# Maui](https://github.com/Sait-team-2/FinalProject_GymManagement)
-- [Java OOP]
+- [Java OOP](https://github.com/ian-ann/projects_assignments)
 - [Mobile React]
-- [Web Dev React]
+- [Web Dev React Code](https://github.com/ian-ann/cprg306-assignments)  [Site](https://cprg306-assignments-nine-eosin.vercel.app/)
