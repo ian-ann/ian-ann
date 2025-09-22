@@ -83,5 +83,5 @@ I'm always excited to discuss quality assurance, test automation, and innovative
 
 *"Quality is never an accident; it is always the result of intelligent effort."* - John Ruskin
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=your-username&theme=default)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=ian-ann&color=brightgreen)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ian-ann&theme=default)](https://git.io/streak-stats)
