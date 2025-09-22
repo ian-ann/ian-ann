@@ -1,36 +1,87 @@
-# About Me
-- 👋 Hi there! I'm Marian Estrada, a Senior Quality Assurance Engineer with a focus on automation testing. With my experience in software QA testing and debugging code, I have honed my skills in developing and executing test plans, analyzing and documenting test results, and identifying defects. I have worked extensively with Cypress, Testrail, and Github Actions, and integrated them to improve test coverage and effectiveness of the test automation process. Additionally, I have experience managing teams of QA testers and support personnel, as well as creating and implementing efficient test automation frameworks. 
-- 🌱 I’m interested in plants and animals
-- 📫 How to reach me 
-    - [Email](mailto:ian_an@yahoo.com)
-    - [Linkedin](https://www.linkedin.com/in/marian-g-estrada/)
+# Hi there! 👋 I'm Marian Estrada
 
-# Test Documents
+## Senior Quality Assurance Engineer | Test Automation Specialist
 
-- [Test Strategy](https://www.canva.com/design/DAE2aGUGsNY/9w6CBJnnLbVTeYnri3ESiQ/watch?utm_content=DAE2aGUGsNY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- [Percy Analysis](https://www.canva.com/design/DAE346g5oTs/jNzDlRwyZnL3Dj_s7pkuJA/view?utm_content=DAE346g5oTs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Why Automate](https://www.canva.com/design/DAE5FVi6ZZ4/garOci7nq-kitY9xSXsAaQ/view?utm_content=DAE5FVi6ZZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Test Plan](https://docs.google.com/spreadsheets/d/1GbDjZFg1imzsCNLQW7t3fS5-aZtFuMGm/edit?usp=share_link&ouid=111527995975860385233&rtpof=true&sd=true)
+Welcome to my GitHub! I'm a passionate QA engineer with extensive experience in automation testing, team leadership, and creating robust testing frameworks that drive quality and efficiency in software development.
 
-# Sample Automation Runs
-- [Cypress Dashboard Integration](assets\Cypress Code JS.png)
-- [CircleCI Integration](assets\Cypress integration to Dashboard.mov)
-- [Cypress Run](assets\Cypress sample run.mov)
-- [Postman Run](assets\Postman API Testing Sample Run.mov)
-- [Playwright Run]()
+### 🔧 What I Do
 
-# Test Automation Code Repository
-- [Postman](https://github.com/ian-ann/Portfolio-PostmanAPI) 
-- [Cypress](https://github.com/ian-ann/Percy-integration-cypress)
-- [Playwright]()
-- [Selenium C#]()
-- [RestSharp]()
+I specialize in developing comprehensive test automation solutions that improve software quality and accelerate delivery cycles. My expertise spans across multiple testing frameworks and tools, with a strong focus on:
 
-# Web Development Code Repository
-- [CSS](https://github.com/ian-ann/CPRG213-Assignment3-JS)
-- [Javascript](https://github.com/ian-ann/CPRG213-Lab6-JS)
-- [Python](https://ian-ann.github.io/Group5-JoJoSalon/)
-- [C# Maui](https://github.com/Sait-team-2/FinalProject_GymManagement)
-- [Java OOP](https://github.com/ian-ann/projects_assignments)
-- [Mobile React]
-- [Web Dev React Code](https://github.com/ian-ann/cprg306-assignments)  [Site](https://cprg306-assignments-nine-eosin.vercel.app/)
+- **Test Automation Framework Development** - Building scalable and maintainable automation solutions
+- **CI/CD Integration** - Seamlessly integrating testing into development pipelines
+- **Team Leadership** - Managing QA teams and mentoring junior engineers
+- **Quality Strategy** - Creating and implementing comprehensive testing strategies
+
+### 🛠️ Tech Stack & Tools
+
+**Testing Frameworks & Tools:**
+- 🌐 **Cypress** - End-to-end testing and dashboard integration
+- 🎭 **Playwright** - Cross-browser automation testing
+- 📮 **Postman** - API testing and validation
+- 🔍 **Selenium C#** - Web application automation
+- 🚀 **RestSharp** - .NET REST client testing
+
+**Development & Languages:**
+- **Frontend:** JavaScript, CSS, React (Web & Mobile)
+- **Backend:** Python, C# (.NET MAUI), Java (OOP)
+- **Version Control:** Git, GitHub Actions
+- **CI/CD:** CircleCI, GitHub Actions
+
+**Quality Management:**
+- TestRail for test case management
+- Percy for visual regression testing
+- Comprehensive test documentation and reporting
+
+### 📋 Professional Documentation
+
+I believe in thorough documentation and strategic planning. Here are some of my key quality assurance documents:
+
+- **[Test Strategy](link-to-document)** - Comprehensive approach to quality assurance
+- **[Percy Visual Analysis](link-to-document)** - Visual regression testing methodology  
+- **[Automation Strategy](link-to-document)** - Why and how we automate testing
+- **[Test Planning Templates](link-to-document)** - Standardized planning approaches
+
+### 🎥 Automation in Action
+
+See my test automation frameworks in action:
+
+- **[Cypress Dashboard Integration](assets/Cypress%20Code%20JS.png)** - Real-time test monitoring and reporting
+- **[CI/CD Pipeline Integration](assets/Cypress%20integration%20to%20Dashboard.mov)** - Automated testing in CircleCI
+- **[End-to-End Test Execution](assets/Cypress%20sample%20run.mov)** - Complete user journey testing
+- **[API Testing Workflow](assets/Postman%20API%20Testing%20Sample%20Run.mov)** - Comprehensive API validation
+- **Cross-Browser Testing** - Playwright automation examples
+
+### 🗂️ Featured Repositories
+
+**Test Automation Frameworks:**
+- 🟢 **[Cypress Test Suite](repo-link)** - Comprehensive E2E testing framework
+- 🎭 **[Playwright Automation](repo-link)** - Cross-browser testing solution
+- 📮 **[Postman Collections](repo-link)** - API testing and validation suites
+- 🔷 **[Selenium C# Framework](repo-link)** - Robust web automation testing
+- 🚀 **[RestSharp Testing](repo-link)** - .NET API testing framework
+
+**Development Projects:**
+- ⚛️ **[React Web Applications](repo-link)** - Modern web development
+- 📱 **[Mobile React Projects](repo-link)** - Cross-platform mobile solutions
+- 🖥️ **[C# MAUI Applications](repo-link)** - Multi-platform development
+- 🐍 **[Python Automation Scripts](repo-link)** - Testing utilities and tools
+- ☕ **[Java OOP Projects](repo-link)** - Object-oriented programming examples
+
+### 🌱 Beyond Code
+
+When I'm not ensuring software quality, I enjoy connecting with nature through my interests in plants and animals. I believe that attention to detail and patience—qualities essential in both gardening and quality assurance—go hand in hand.
+
+### 📫 Let's Connect!
+
+I'm always excited to discuss quality assurance, test automation, and innovative testing strategies.
+
+- 📧 **Email:** [marian.estrada.vc@gmail.com](mailto:marian.estrada.vc@gmail.com)
+- 🌐 **Portfolio:** [your-portfolio-site.com](https://your-portfolio-site.com)
+
+---
+
+*"Quality is never an accident; it is always the result of intelligent effort."* - John Ruskin
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=your-username&theme=default)](https://git.io/streak-stats)
