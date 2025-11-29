@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Marian
 
-## Senior Quality Assurance Engineer | Test Automation Specialist
+## Software Developer | Senior Quality Assurance Engineer | Test Automation Specialist
 
 Welcome to my GitHub! I'm a passionate QA engineer with extensive experience in automation testing, team leadership, and creating robust testing frameworks that drive quality and efficiency in software development.
 
