@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Marian Estrada
+# Hi there! 👋 I'm Marian
 
 ## Senior Quality Assurance Engineer | Test Automation Specialist
 
@@ -77,11 +77,6 @@ When I'm not ensuring software quality, I enjoy connecting with nature through m
 I'm always excited to discuss quality assurance, test automation, and innovative testing strategies.
 
 - 📧 **Email:** [marian.estrada.vc@gmail.com](mailto:marian.estrada.vc@gmail.com)
-- 🌐 **Portfolio:** [your-portfolio-site.com](https://your-portfolio-site.com)
 
 ---
-
-*"Quality is never an accident; it is always the result of intelligent effort."* - John Ruskin
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ian-ann&color=brightgreen)
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ian-ann&theme=default)](https://git.io/streak-stats)
